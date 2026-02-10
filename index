@@ -336,9 +336,27 @@
 
       // --- Floating Photos Logic ---
       const photoSources = [
-        // Add as many photos as you want here.
-        "images/me.jpg",
-        "images/girlfriend.jpg",
+        // Add as many photos as you want here (store the files in /images).
+        "images/IMG_0156.JPG",
+        "images/IMG_0351.JPG",
+        "images/IMG_0359.JPG",
+        "images/IMG_0362.JPG",
+        "images/IMG_0382.jpeg",
+        "images/IMG_0596.JPG",
+        "images/IMG_0609.JPG",
+        "images/IMG_0610.JPG",
+        "images/IMG_0611.JPG",
+        "images/IMG_0612.JPG",
+        "images/IMG_0613.JPG",
+        "images/IMG_0614.JPG",
+        "images/IMG_0617.JPG",
+        "images/IMG_0618.JPG",
+        "images/IMG_0619.JPG",
+        "images/IMG_0649.JPG",
+        "images/IMG_0696.JPG",
+        "images/IMG_5470.jpeg",
+        "images/IMG_5472.jpeg",
+        "images/IMG_5615.jpeg",
       ];
       const maxPhotosOnScreen = 12;
 
